@@ -73,3 +73,9 @@ body {
     border-radius: 3px;
     transition: 0.2s;
 }
+
+@media (min-width: 900px) {
+    .slider .slider-controls {
+        bottom: 0;
+    }
+}
